@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 import bcrypt from "bcrypt";
-import generarId from "../helpers/GenerarId.js";
+import generarId from "../helpers/generarId.js";
 
 //la funcion .Schema() se usa para definir un objeto con la estructura que tendran los datos del modelo
 //No se requiere asignar id lo hace automaticamente
